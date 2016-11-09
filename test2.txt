@@ -1,0 +1,1 @@
+package test04;import java.io.StringReader;public class MemoryInput {	public static void main(String[] args) {		StringReader in=new StringReader(BufferedInputFile.read("1.txt"));	}}
