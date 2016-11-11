@@ -11,7 +11,7 @@ public class Accesor implements Runnable{
     @Override
     public void run() {
         while (!Thread.currentThread().isInterrupted()){
- 
+
         }
     }
 }
